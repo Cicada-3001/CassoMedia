@@ -1,0 +1,25 @@
+.install  nodemon 
+express 
+body-parser 
+bcrypt 
+cors 
+dotenv  for environment variables
+gridfs-stream  for file upload
+multer multer-grid 
+multer-gridfs-storage 
+helmet morgan for login 
+jsonwebtoken  for validation 
+mangoose for database
+
+multer for file storage get the information  from there 
+mongodb password = vfj2pB80Wq3VODQX
+
+IP Access List = 41.212.125.82/32
+const PORT 
+
+
+Asynchronous proves especially valuable for applications mthat access the UI thread because all UI related activity usually shares one thread 
+Asynchronous is essentially for activities that are potentially  blocking  such as when  you application accesses the web 
+
+
+-------------------------------I BELIEVE-------------------------
